@@ -1,0 +1,8 @@
+C:\Users\catriel\Desktop\emailparser\emailparser\bin\Debug\emailparser.exe.config
+C:\Users\catriel\Desktop\emailparser\emailparser\bin\Debug\emailparser.exe
+C:\Users\catriel\Desktop\emailparser\emailparser\bin\Debug\emailparser.pdb
+C:\Users\catriel\Desktop\emailparser\emailparser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\catriel\Desktop\emailparser\emailparser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\catriel\Desktop\emailparser\emailparser\obj\Debug\emailparser.csproj.CoreCompileInputs.cache
+C:\Users\catriel\Desktop\emailparser\emailparser\obj\Debug\emailparser.exe
+C:\Users\catriel\Desktop\emailparser\emailparser\obj\Debug\emailparser.pdb
